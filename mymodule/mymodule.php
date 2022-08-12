@@ -11,7 +11,7 @@ class MyModule extends Module {
 		$this->name = 'mymodule';
 		$this->tab = 'front_office_features';
 		$this->version = '1.0.0';
-		$this->author = 'FMM Modules';
+		$this->author = 'Sajid Khan';
 		$this->need_instance = 0;
 		$this->ps_versions_compliancy = [
 			'min' => '1.6',
